@@ -3,12 +3,7 @@
   # Geonwoo Kim | 김건우
 
   *"There is no failure, only growth."*
-
-  <br/>
-
-  [![GitHub](https://img.shields.io/badge/GitHub-gxonu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gxonu)
-  [![Email](https://img.shields.io/badge/Email-kgw8803@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kgw8803@gmail.com)
-
+  
 </div>
 
 
