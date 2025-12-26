@@ -13,7 +13,6 @@
 
 
 ## 👋 About me?
----
 
 I'm a highly motivated AI researcher pursuing excellence in Generative AI and Multimodal Learning. My goal is to develop cutting-edge technologies that make meaningful contributions to society and advance the field of AI.
 
@@ -21,7 +20,6 @@ I am deeply interested in AI research, particularly in **Generative Models**, **
 
 
 ## 🎓 Education
----
 
 **Inha University** | Department of Artificial Intelligence  
 *Mar. 2021 - Feb. 2027 (Expected)*
@@ -30,7 +28,6 @@ I am deeply interested in AI research, particularly in **Generative Models**, **
 
 
 ## 🔬 Research Experience
----
 
 **DAVIAN Lab** | Kim Jaechul Graduate School of AI, KAIST  
 *Undergraduate Research Intern* | *Dec. 2025 - Present*
@@ -44,7 +41,6 @@ I am deeply interested in AI research, particularly in **Generative Models**, **
 
 
 ## 🏆 Awards & Honors
----
 
 | Date | Award | Competition | Rank |
 | --- | --- | --- | --- |
@@ -61,7 +57,6 @@ I am deeply interested in AI research, particularly in **Generative Models**, **
 
 
 ## 🚀 Projects
----
 
 | Date | Project | Role | Achievement |
 | --- | --- | --- | --- |
@@ -73,7 +68,7 @@ I am deeply interested in AI research, particularly in **Generative Models**, **
 
 
 ## 💻 Tech Stacks
----
+
 **AI/ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -100,13 +95,11 @@ I am deeply interested in AI research, particularly in **Generative Models**, **
 
 
 ## 📊 SOLVED.AC
----
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgw8803)](https://solved.ac/profile/kgw8803)
 
 
 ## 📫 Contact
----
 
 <div align="center">
   
