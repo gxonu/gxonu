@@ -1,33 +1,94 @@
-# Hi, I'm Geonwoo Kim
+<div align="center">
+  
+  # Geonwoo Kim | 김건우
 
-I work on generative video models and retrieval-grounded AI services. I'm a senior undergraduate in Artificial Intelligence at Inha University and a research intern at DAVIAN Lab, KAIST, advised by Prof. Jaegul Choo.
+  *"There is no failure, only growth."*
+  
+</div>
 
-[Website](https://gxonu.github.io/) / [CV](https://gxonu.github.io/assets/GeonwooKim_CV.pdf) / [LinkedIn](https://www.linkedin.com/in/geonwoo-kim-27a599303/)
 
-## Research and experience
+## 👋 About me?
 
-- **DAVIAN Lab, KAIST AI** — Research Intern, January 2026–Present. Co-first-author work on 3D-consistent subject-to-video generation, submitted to ICLR 2027 and currently under review.
-- **Uniroad** — Co-founding Member / AI Researcher, March–July 2026. Admissions data and an Agentic RAG engine with source citations. External support since July 2026.
-- **UPFLOW** — Co-founding Member / AI Researcher, February–October 2025. MCP-based regulation collection, retrieval-grounded reports and request-form automation.
-- **Multimodal AI Lab, Inha University** — Undergraduate Researcher, December 2024–December 2025. Training-free subject-driven image editing.
+I'm a highly motivated AI researcher pursuing excellence in Generative AI and Multimodal Learning. My goal is to develop cutting-edge technologies that make meaningful contributions to society and advance the field of AI.
 
-## Selected projects
+I am deeply interested in AI research, particularly in **Generative Models**, **Multimodal Learning**, and **Computer Vision**. Currently, I'm working as an undergraduate research intern at **KAIST AI Graduate School**, focusing on video generation research. With hands-on experience in building AI systems from problem definition to deployment, I aim to bridge the gap between academic research and real-world applications.
 
-I led the competition projects below from problem analysis through experiments and final submission.
 
-| Project | Focus | Resources |
-|---|---|---|
-| Action-Conditioned Robot World Model | Top Excellence Award, graduate track, 2nd place | [Project](https://gxonu.github.io/projects/robot-world-model/) / [Code](https://github.com/gxonu/Worldmodel-AI-Challenge) / [Slides](https://github.com/gxonu/Worldmodel-AI-Challenge/blob/main/presentation/slides.pdf) |
-| LG Aimers 9th | Pitch-control prediction, leaderboard 88th | [Project](https://gxonu.github.io/projects/lg-aimers-pitch-control/) / [Code](https://github.com/gxonu/LG-Aimers-9th-PitchControl) |
-| Agent Action Challenge | Next-action prediction with session-level validation | [Project](https://gxonu.github.io/projects/agent-action/) / [Code](https://github.com/gxonu/Agent-Action-Chanllenge) |
-| Text-Guided Colorization | Undergraduate Excellence Award, BK21 Director’s Award | [Project](https://gxonu.github.io/projects/text-guided-colorization/) / [Code](https://github.com/gxonu/Text-Guided-Colorization) |
-| Uniroad | Admissions counseling with Agentic RAG | [Project](https://gxonu.github.io/projects/uniroad/) / [Service](https://uni2road.com/chat) |
-| COSFLOW at UPFLOW | Cosmetics regulation and workflow automation | [Project](https://gxonu.github.io/projects/cosflow/) / [Website](https://upflow.ai.kr/index.html) |
+## 🎓 Education
 
-## Community
+**Inha University** | Department of Artificial Intelligence  
+*Mar. 2021 - Feb. 2027 (Expected)*
+- Academic Excellence Scholarship (2022-1)
+- Dean's Award for Academic Excellence (1st Place, 2022.09)
 
-Vice President of **SINSA**, the AI society at Inha University, June 2025–June 2026. Organized study programs and led Computer Vision and RAG/Agent study groups.
 
-My interests include video and 3D generation, multimodal learning, and retrieval-grounded AI agents.
+## 🔬 Research Experience
 
-Contact: [kgw8803@gmail.com](mailto:kgw8803@gmail.com)
+**DAVIAN Lab** | Kim Jaechul Graduate School of AI, KAIST  
+*Undergraduate Research Intern* | *Dec. 2025 - Present*
+- Conducting research on **video generation**
+- Advised by Professor Jaegul Choo
+
+**Multimodal AI Lab** | Inha University  
+*Undergraduate Research Intern* | *Dec. 2024 - Dec. 2025*
+- Conducted research on **zero-shot subject-driven image generation and editing** using multimodal inputs (image, mask, text) and in-context learning
+- Advised by Professor Pilhyeon Lee
+
+
+## 🏆 Awards & Honors
+
+| Date | Award | Competition | Rank |
+| --- | --- | --- | --- |
+| 2025.09 | Director's Award (Excellence) | Incheon University-wide Startup Competition | 🥈 Final Round |
+| 2025.08 | BK21 Director's Award (Excellence) | Inha AI Challenge (Text-Guided Image Colorization) | 🥈 |
+| 2025.06 | Mayor's Award (Outstanding Idea) | Incheon University-wide Startup Competition | 🥉 Preliminary |
+| 2025.05 | Grand Prize (President's Award) | Inter-university IT Hackathon (MOONG) | 🥇 |
+| 2025.03 | Grand Prize | Startup Competition (AI Agent SaaS) | 🥇 |
+| 2024.11 | 1st Place | Google Developer Groups Ideathon & Demo Day | 🥇 |
+| 2022.09 | 1st Place (Dean's Award) | Academic Excellence | 🥇 |
+
+**Honors:**
+- 2021 Academic Excellence Scholarship
+
+
+## 🚀 Projects
+
+| Date | Project | Role | Achievement |
+| --- | --- | --- | --- |
+| 2025.06-09 | **CoverUs** | Team Leader | AI comment management solution for creators<br>- MCP-based data collection + RAG + LoRA fine-tuning<br>- Excellence Award (Director's Award) |
+| 2025.06-09 | **COSFLOW** | Team Member | AI automation for cosmetic OEM compliance<br>- Vector DB + GPT-4.1 report generation |
+| 2025.06-08 | **Text-Guided Image Colorization** | Team Leader | DiT backbone + dual-decoder framework<br>- BK21 Director's Award (Excellence) |
+| 2025.06-07 | **AI-Generated Text Classification** | Team Leader | Human vs. LLM text discrimination<br>- ROC-AUC 0.906 (Top 11%, 251 teams) |
+| 2025.03-06 | **Enterprise AI Research Agent** | Team Member | RAG + LangChain-powered CSV Analysis Agent<br>- ₩80M government funding secured |
+
+
+## 💻 Tech Stacks
+
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Deep Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**LLM & RAG**  
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0081FB?style=for-the-badge&logo=meta&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
+
+**Data Science**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Tools**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=openssh&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 SOLVED.AC
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgw8803)](https://solved.ac/profile/kgw8803)
+
+
+## 📫 Contact
+
+<div align="center">
+  
+  <a href="mailto:kgw8803@gmail.com"><img src="https://img.shields.io/badge/kgw8803@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/gxonu"><img src="https://img.shields.io/badge/GitHub-gxonu-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
