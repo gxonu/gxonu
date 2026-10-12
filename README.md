@@ -49,7 +49,7 @@ Project Page: Coming soon | arXiv: Coming soon | Code: Coming soon
 
 | Date | Award | Competition | Rank |
 | --- | --- | --- | --- |
-| 2026.10 | — | National Park Satellite Monitoring AI Challenge, Facility Change Detection | 🥇 1st |
+| 2026.10 | Grand Prize (Korea National Park Service Chairman’s Award) | National Park Satellite Monitoring AI Challenge, Facility Change Detection | 🥇 1st |
 | 2026.09 | Top Excellence Award | Robot World Model AI Challenge, graduate track | 🥈 2nd |
 | 2026.05 | Excellence Award | Inter Campus AI Challenge 2026 | 🥉 3rd |
 | 2025.09 | Excellence Award | Incheon Inter-University Startup Competition | 🥉 3rd |
