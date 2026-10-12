@@ -49,16 +49,16 @@ Project Page: Coming soon | arXiv: Coming soon | Code: Coming soon
 
 | Date | Award | Competition | Rank |
 | --- | --- | --- | --- |
-| 2026.10 | Grand Prize (Korea National Park Service Chairman’s Award) | National Park Satellite Monitoring AI Challenge, Facility Change Detection | 🥇 1st |
-| 2026.09 | Top Excellence Award | Robot World Model AI Challenge, graduate track | 🥈 2nd |
-| 2026.05 | Excellence Award | Inter Campus AI Challenge 2026 | 🥉 3rd |
-| 2025.09 | Excellence Award | Incheon Inter-University Startup Competition | 🥉 3rd |
-| 2025.08 | Excellence Award (BK21 Director’s Award) | Text-Guided Colorization AI Challenge, undergraduate track | 🥉 3rd |
-| 2025.06 | Outstanding Idea Award (Incheon Mayor’s Award) | Incheon Inter-University Startup Competition, preliminary round | 🥉 3rd |
-| 2025.05 | Grand Prize (Inha University President’s Award) | MOONG Inter-University IT Hackathon | 🥇 1st |
-| 2025.03 | Grand Prize | Launch Pad Startup Competition | 🥇 1st |
-| 2024.11 | 1st Place | GDG Ideathon & Demo Day | 🥇 1st |
-| 2022.09 | Dean’s Award | Academic Excellence, 1st in the AI department | 🥇 1st |
+| 2026.10 | Grand Prize (Korea National Park Service Chairman’s Award) | National Park Satellite Monitoring AI Challenge, Facility Change Detection | 🥇&nbsp;1st |
+| 2026.09 | Top Excellence Award | Robot World Model AI Challenge, graduate track | 🥈&nbsp;2nd |
+| 2026.05 | Excellence Award | Inter Campus AI Challenge 2026 | 🥉&nbsp;3rd |
+| 2025.09 | Excellence Award | Incheon Inter-University Startup Competition | 🥉&nbsp;3rd |
+| 2025.08 | Excellence Award (BK21 Director’s Award) | Text-Guided Colorization AI Challenge, undergraduate track | 🥉&nbsp;3rd |
+| 2025.06 | Outstanding Idea Award (Incheon Mayor’s Award) | Incheon Inter-University Startup Competition, preliminary round | 🥉&nbsp;3rd |
+| 2025.05 | Grand Prize (Inha University President’s Award) | MOONG Inter-University IT Hackathon | 🥇&nbsp;1st |
+| 2025.03 | Grand Prize | Launch Pad Startup Competition | 🥇&nbsp;1st |
+| 2024.11 | 1st Place | GDG Ideathon & Demo Day | 🥇&nbsp;1st |
+| 2022.09 | Dean’s Award | Academic Excellence, 1st in the AI department | 🥇&nbsp;1st |
 
 [Certificates and supporting materials](https://gxonu.github.io/#awards)
 
