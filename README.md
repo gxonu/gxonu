@@ -8,9 +8,9 @@
 
 ## 👋 About me?
 
-I'm a highly motivated AI researcher pursuing excellence in Generative AI and Multimodal Learning. My goal is to develop cutting-edge technologies that make meaningful contributions to society and advance the field of AI.
+I'm a highly motivated AI researcher pursuing excellence in Generative AI, World Models, and Physical AI. My goal is to develop cutting-edge technologies that make meaningful contributions to society and advance the field of AI.
 
-I am deeply interested in AI research, particularly in **Generative Models**, **Multimodal Learning**, and **World Models**. Currently, I'm working as an undergraduate research intern at **DAVIAN Lab, Kim Jaechul Graduate School of AI, KAIST**, advised by **Professor Jaegul Choo**, focusing on video generation research. With hands-on experience in building AI systems from problem definition to deployment, I aim to bridge the gap between academic research and real-world applications.
+I am deeply interested in AI research, particularly in **Generative AI**, **World Models**, and **Physical AI**. Currently, I'm working as an undergraduate research intern at **DAVIAN Lab, Kim Jaechul Graduate School of AI, KAIST**, advised by **Professor Jaegul Choo**, focusing on video generation research. With hands-on experience in building AI systems from problem definition to deployment, I aim to bridge the gap between academic research and real-world applications.
 
 [Website](https://gxonu.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=7ziWvGkAAAAJ&hl=ko) | [CV](https://gxonu.github.io/assets/GeonwooKim_CV.pdf)
 
@@ -26,7 +26,7 @@ I am deeply interested in AI research, particularly in **Generative Models**, **
 ## 🔬 Research Experience
 
 **DAVIAN Lab** | Kim Jaechul Graduate School of AI, KAIST  
-*Research Intern* | *Jan. 2026 – Present*
+*Research Intern* | *Dec. 2025 – Present*
 
 - Research on video generation and 3D-consistent subject modeling
 - Advised by Professor Jaegul Choo
@@ -39,11 +39,16 @@ I am deeply interested in AI research, particularly in **Generative Models**, **
 
 ## 📝 Publications
 
-**A Paper on Multi-view Conditioned Video Generation**  
-Co-first author / DAVIAN Lab, KAIST  
-**ICLR 2027, under review**
+**OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images**  
+Junyeong Ahn*, <ins><strong>Geonwoo Kim*</strong></ins>, Kinam Kim*, Gihwi Kim, Hoonjin Jung, Hyojin Jang, Jaegul Choo  
+<sub>* Equal contribution</sub>
 
-Project Page: Coming soon | arXiv: Coming soon | Code: Coming soon
+**Under Review 2026**  
+[![Hugging Face Daily Papers #1](assets/hf-daily-papers.svg)](https://huggingface.co/papers/2610.35684)
+
+Generates videos from a few multi-view images while preserving subject identity and 3D structure across camera paths up to full 360° orbits.
+
+[Project Page](https://justin4ai.github.io/OmniShowcase/) | [arXiv](https://arxiv.org/abs/2610.35684) | [Code](https://github.com/justin4ai/OmniShowcase)
 
 ## 🏆 Awards & Honors
 
